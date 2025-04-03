@@ -14,7 +14,7 @@ Este é um jogo de Pedra, Papel e Tesoura (Jokenpô) simples, desenvolvido com H
 - JavaScript
 
 ## 🎮 Como Jogar
-1. Abra o arquivo `index.html` em seu navegador.
+1. Abra o arquivo `aula02.html` em seu navegador.
 2. Clique no botão "Escolha!".
 3. Insira sua idade (deve ser 18 anos ou mais para jogar).
 4. Escolha entre Pedra (1), Papel (2) ou Tesoura (3).
@@ -23,7 +23,7 @@ Este é um jogo de Pedra, Papel e Tesoura (Jokenpô) simples, desenvolvido com H
 ## 📂 Estrutura do Projeto
 ```
 JOKENPO/
-│-- index.html
+│-- aula02.html
 │-- style.css
 │-- script.js
 ```
@@ -33,7 +33,7 @@ JOKENPO/
    ```sh
    git clone https://github.com/carloseduu66/Jokenpo.git
    ```
-2. Abra o arquivo `index.html` no navegador.
+2. Abra o arquivo `aula02.html` no navegador.
 
 ## 📝 Licença
 Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo.
